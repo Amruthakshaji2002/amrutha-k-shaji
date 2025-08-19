@@ -20,8 +20,7 @@ AI/ML Enthusiast | Python | PyTorch | Java | Healthcare Applications| Adversaria
 
 ## 🔹 Connect with Me
 - 📧 Email: **amruthakshaji26@gmail.com**  
-- 💼 LinkedIn: linkedin.com/in/amrutha-k-shaji-a186031b8
-
+- 💼 LinkedIn: [linkedin.com/in/amrutha-k-shaji-a186031b8](https://www.linkedin.com/in/amrutha-k-shaji-a186031b8)  
 ---
 
 ⭐️ Feel free to explore my repositories and collaborate on AI/ML projects!
